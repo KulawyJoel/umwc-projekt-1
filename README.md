@@ -1,2 +1,2 @@
-# umwc-projekt-1
-Repozytorium projektu
+   # Projekt UMwC
+   To jest mój pierwszy projekt na GitHub. 🚀
